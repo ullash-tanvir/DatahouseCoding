@@ -20,14 +20,12 @@ pip install Flask
   <li>Output: JSON object</li>
 </ul>
 
-<ul>
-  <li>Calculating Compatibility Score  </li>
+### Calculating Compatibility Score  
   <ul>
     <li> Assuming Maximum value as 10 and Minimum vaalue as 1 for each of the attributes: intelligence, strength, endurance, spicyFoodTolerance </li>
     <li>Calculating normalized value of the attributes using MIn-Max approach : (value - min_value) / (max_value - min_value))</li>
     <li>Averaging of the normalized value to get the compatibility score</li>
   </ul>
-</ul>
 
 
 ### Demonstration
