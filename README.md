@@ -1,10 +1,11 @@
 # Datahouse Coding Assignemnt
 
+<li>Input: JSON file or raw JSON. (Output has been demostrated below of this file with CURL and POSTMAN)<li>
+<li>Output: JSON object<li>
+
 
 
 https://user-images.githubusercontent.com/58367051/226894914-33889f44-c93b-4d2a-ad20-ba794fadfc63.mov
-
-
 
 
 
