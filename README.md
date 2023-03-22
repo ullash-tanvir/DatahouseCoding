@@ -1,5 +1,10 @@
 # Datahouse Coding Assignemnt
 
+### Dependency:
+pip install Flask
+
+### Input and Output
+
 <ul>
 <li>Input: JSON file or raw JSON. (Output has been demostrated below of this file with CURL and POSTMAN)</li>
   <ul>
@@ -25,7 +30,7 @@
 </ul>
 
 
-## Demonstration
+### Demonstration
 https://user-images.githubusercontent.com/58367051/226894914-33889f44-c93b-4d2a-ad20-ba794fadfc63.mov
 
 
