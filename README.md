@@ -1,9 +1,19 @@
 # Datahouse Coding Assignemnt
 
-<ol>
-<li>Input: JSON file or raw JSON. (Output has been demostrated below of this file with CURL and POSTMAN)<li>
-<li>Output: JSON object<li>
-</ol>
+<ul>
+<li>Input: JSON file or raw JSON. (Output has been demostrated below of this file with CURL and POSTMAN)</li>
+  <ul>
+    <li>
+      For CURL: curl -i -H "Content-Type: application/json" charset=utf-8 -X POST -d @applicants.json http://127.0.0.1:5000
+    </li>
+    </ul>
+  <ul>
+    <li>
+    For POSTMAN: Set method to POST and URL as http://127.0.0.1:5000. Input type: raw and JSON
+     </li>
+    </ul>
+<li>Output: JSON object</li>
+</ul>
 
 
 https://user-images.githubusercontent.com/58367051/226894914-33889f44-c93b-4d2a-ad20-ba794fadfc63.mov
